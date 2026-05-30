@@ -16,11 +16,11 @@ Site oficial da OBI: https://olimpiada.ic.unicamp.br/
 
 | Nome | Data de nascimento | Genero | Nivel OBI | Ano Escola |
 |---|---|---|---|---|
-| MARIA JHULIANA CORDEIRO BRITO | 27/10/2007 | F | PS | U1 |
-| ISABELLE REIS GREGORIO | 11/01/2006 | F | PS | U1 |
-| AMANDA SANTANA | 20/10/2007 | F | PS | U1 |
-| EDUARDA MOURA RAMOS | 14/05/2007 | F | PS | U1 |
-| CECILIA SILVA ALEMI | 30/11/2005 | F | PS | U1 |
+| MARIA JHULIANA C.B | XXXX | F | PS | U1 |
+| ISABELLE R.G | XXXX | F | PS | U1 |
+| AMANDA S. | XXXX | F | PS | U1 |
+| EDUARDA M.R | XXXX| F | PS | U1 |
+| CECILIA S.A | XXXX | F | PS | U1 |
 
 ## 2. Ponto de atencao sobre a Competicao Feminina
 
