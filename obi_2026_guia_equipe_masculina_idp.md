@@ -43,12 +43,12 @@ Essa modalidade e individual. Mesmo sendo uma equipe de treinamento, cada aluno 
 
 | Nome | Data de nascimento | Genero | Nivel | Ano Escola |
 |---|---|---|---|---|
-| MARCO ANTONIO RODRIGUES SIQUEIRA | 19/11/2007 | M | PS | U1 |
-| FRANKLIN DOS SANTOS CUNHA | 26/10/2000 | M | PS | U1 |
-| GABRIEL BIZERRA DE ARAUJO | 27/10/2007 | M | PS | U1 |
-| DAVI BRANDAO CAVALLARI DE OLIVEIRA | 09/06/2007 | M | PS | U1 |
-| GAEL CEREGATTI MURAD | 05/06/2008 | M | PS | U1 |
-| RAFAEL DIAS PALOMINO DOS SANTOS | 15/04/2007 | M | PS | U1 |
+| MARCO A.R.C | XXXX | M | PS | U1 |
+| FRANKLIN DOS SANTOS CUNHA | XXXX | M | PS | U1 |
+| GABRIEL B.A | XXXX | M | PS | U1 |
+| DAVI B.C.O | XXXX| M | PS | U1 |
+| GAEL C.M | XXXX | M | PS | U1 |
+| RAFAEL D.P.S | XXXX | M | PS | U1 |
 
 Observacao: o email do Rafael ainda precisa ser confirmado para facilitar envio de senha e acesso ao ambiente da OBI.
 
