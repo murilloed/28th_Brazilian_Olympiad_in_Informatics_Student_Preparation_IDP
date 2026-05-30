@@ -24,14 +24,22 @@ Ano Escola: U1
 ```text
 00_visao_geral/
 01_equipes/
-02_inscricoes/
-03_treinamento_c/
-04_listas_de_exercicios/
-05_solucoes/
-06_simulados/
-07_materiais_professor/
-08_assets/
+02_treinamento_c/
+03_listas_de_exercicios/
+04_materiais_professor/
+05_assets/
 ```
+
+Organização principal:
+
+| Pasta | Conteúdo |
+|---|---|
+| `00_visao_geral/` | apresentação da OBI, calendário, regulamento resumido e links oficiais |
+| `01_equipes/` | guias, agendas e checklists das equipes |
+| `02_treinamento_c/` | aulas rápidas e materiais de revisão em linguagem C |
+| `03_listas_de_exercicios/` | listas por nível e simulados |
+| `04_materiais_professor/` | plano de aula, roteiro dos encontros e orientações de condução |
+| `05_assets/` | imagens, logos e materiais visuais |
 
 ## Visão Geral
 
@@ -42,48 +50,38 @@ Ano Escola: U1
 
 ## Equipes
 
-### Equipe Masculina
-
-- [Guia da Equipe Masculina](01_equipes/equipe_masculina/guia_equipe_masculina.md)
-- [Agenda da Equipe Masculina](01_equipes/equipe_masculina/agenda_equipe_masculina.md)
-- [Checklist da Equipe Masculina](01_equipes/equipe_masculina/checklist_equipe_masculina.md)
-
-### Equipe Feminina
-
-- [Agenda da Equipe Feminina](01_equipes/equipe_feminina/agenda_equipe_feminina.md)
-
-## Inscrições
-
-- [Instruções de Inscrição](02_inscricoes/instrucoes_inscricao.md)
-- [Campos da Planilha OBI](02_inscricoes/campos_planilha_obi.md)
+- [Agenda da Equipe Masculina](01_equipes/agenda_equipe_masculina.md)
+- [Checklist da Equipe Masculina](01_equipes/checklist_equipe_masculina.md)
+- [Guia da Equipe Masculina](01_equipes/guia_equipe_masculina.md)
+- [Agenda da Equipe Feminina](01_equipes/obi_2026_agenda_equipe_feminina_idp.md)
 
 ## Treinamento Em C
 
-- [Entrada e Saída](03_treinamento_c/01_entrada_saida.md)
-- [Condicionais e Laços](03_treinamento_c/02_condicionais_lacos.md)
-- [Vetores e Ordenação](03_treinamento_c/03_vetores_ordenacao.md)
-- [Strings em C](03_treinamento_c/04_strings.md)
-- [Simulação e Matemática](03_treinamento_c/05_simulacao_matematica.md)
-- [Erros Comuns em C](03_treinamento_c/06_erros_comuns_em_c.md)
-- [Modelos de Código em C](03_treinamento_c/modelos_codigo_c.md)
+- [Entrada e Saída](02_treinamento_c/01_entrada_saida.md)
+- [Condicionais e Laços](02_treinamento_c/02_condicionais_lacos.md)
+- [Vetores e Ordenação](02_treinamento_c/03_vetores_ordenacao.md)
+- [Strings em C](02_treinamento_c/04_strings.md)
+- [Simulação e Matemática](02_treinamento_c/05_simulacao_matematica.md)
+- [Erros Comuns em C](02_treinamento_c/06_erros_comuns_em_c.md)
+- [Modelos de Código em C](02_treinamento_c/modelos_codigo_c.md)
 
 ## Listas De Exercícios
 
-- [Nível 1](04_listas_de_exercicios/nivel_1/)
-- [Nível 2](04_listas_de_exercicios/nivel_2/)
-- [Nível Sênior](04_listas_de_exercicios/nivel_senior/)
-- [Simulados](04_listas_de_exercicios/simulados/)
-
-## Simulados
-
-- [Simulados Gerais](06_simulados/)
+- [Nível 1](03_listas_de_exercicios/nivel_1/)
+- [Nível 2](03_listas_de_exercicios/nivel_2/)
+- [Nível Sênior](03_listas_de_exercicios/nivel_senior/)
+- [Simulados](03_listas_de_exercicios/simulados/)
 
 ## Materiais Do Professor
 
-- [Plano de Aula](07_materiais_professor/plano_de_aula.md)
-- [Estratégia de Treino](07_materiais_professor/estrategia_de_treino.md)
-- [Roteiro dos Encontros](07_materiais_professor/roteiro_dos_encontros.md)
-- [Orientações Para o Dia da Prova](07_materiais_professor/orientacoes_dia_da_prova.md)
+- [Estratégia de Treino](04_materiais_professor/estrategia_de_treino.md)
+- [Orientações Para o Dia da Prova](04_materiais_professor/orientacoes_dia_da_prova.md)
+- [Plano de Aula](04_materiais_professor/plano_de_aula.md)
+- [Roteiro dos Encontros](04_materiais_professor/roteiro_dos_encontros.md)
+
+## Assets
+
+- [Assets](05_assets/)
 
 ## Datas Principais
 
@@ -140,4 +138,3 @@ Este repositório é um material de apoio educacional. As informações oficiais
 ## Licença
 
 Este repositório está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
