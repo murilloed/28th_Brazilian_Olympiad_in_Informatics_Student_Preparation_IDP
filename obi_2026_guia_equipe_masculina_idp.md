@@ -44,7 +44,7 @@ Essa modalidade e individual. Mesmo sendo uma equipe de treinamento, cada aluno 
 | Nome | Data de nascimento | Genero | Nivel | Ano Escola |
 |---|---|---|---|---|
 | MARCO A.R.C | XXXX | M | PS | U1 |
-| FRANKLIN DOS SANTOS CUNHA | XXXX | M | PS | U1 |
+| FRANKLIN D.S.C | XXXX | M | PS | U1 |
 | GABRIEL B.A | XXXX | M | PS | U1 |
 | DAVI B.C.O | XXXX| M | PS | U1 |
 | GAEL C.M | XXXX | M | PS | U1 |
