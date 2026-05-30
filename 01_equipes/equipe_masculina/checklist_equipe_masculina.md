@@ -6,14 +6,14 @@ Este checklist ajuda a organizar a preparação da equipe masculina do IDP para 
 
 | Item | Status |
 |---|---|
-| Confirmar modalidade `PS` para todos os alunos | Pendente |
-| Confirmar ano escola `U1` para todos os alunos | Pendente |
-| Conferir nomes completos | Pendente |
-| Conferir datas de nascimento | Pendente |
-| Conferir emails | Pendente |
-| Corrigir email faltante do Rafael | Pendente |
-| Conferir arquivo CSV de inscrição | Pendente |
-| Enviar inscrição até 08/06/2026, 18h | Pendente |
+| Confirmar modalidade `PS` para todos os alunos | ok |
+| Confirmar ano escola `U1` para todos os alunos | ok |
+| Conferir nomes completos | ok |
+| Conferir datas de nascimento | ok |
+| Conferir emails | ok |
+| Corrigir email faltante do Rafael | ok |
+| Conferir arquivo CSV de inscrição | ok |
+| Enviar inscrição até 08/06/2026, 18h | ok |
 
 ## 2. Infraestrutura
 
