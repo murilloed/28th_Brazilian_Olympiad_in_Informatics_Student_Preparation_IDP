@@ -149,8 +149,8 @@ A seletiva internacional é voltada aos melhores classificados da Modalidade Pro
 |---|---:|---|
 | 01/06 | 2h | Diagnóstico + entrada/saída |
 | 02/06 | 2h | Condicionais e laços |
-| 03/06 | 2h | Vetores e ordenação simples |
-| 04/06 | 2h | Strings em C |
+| 03/06 | 2h | Listas e ordenação simples |
+| 04/06 | 2h | Strings em Python |
 | 05/06 | 2h | Simulação e matemática simples |
 | 06/06 | 3h | Simulado curto: 2h de prova + 1h de correção |
 | 07/06 | 2h | Revisão e refazer problemas errados |
@@ -168,7 +168,7 @@ A seletiva internacional é voltada aos melhores classificados da Modalidade Pro
 | Enviar planilha de competidores | até 08/06/2026, 18h |
 | Definir horário da Fase Local | antes de 10/06/2026 |
 | Testar laboratório e computadores | antes de 10/06/2026 |
-| Testar compilador C | antes de 10/06/2026 |
+| Testar Python 3 | antes de 10/06/2026 |
 | Confirmar acesso ao ambiente de prova | antes da aplicação |
 | Aplicar Fase Local | entre 10 e 12/06/2026 |
 
@@ -183,9 +183,8 @@ Ano Escola: U1
 Inscrição: até 08/06/2026, 18h
 Fase Local: 10 a 12/06/2026
 Duração da Fase Local: 2 horas
-Linguagem de treino: C
+Linguagem de treino: Python
 Prova: individual
 Formato: resolução de problemas no computador
 ```
-
 

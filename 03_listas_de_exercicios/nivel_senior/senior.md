@@ -94,10 +94,10 @@ entrada
 saída esperada
 ```
 
-### Código Em C
+### Codigo Em Python
 
-```c
-// solução aqui
+```python
+# solucao aqui
 ```
 
 ### O Que Aprendi
@@ -110,11 +110,10 @@ saída esperada
 Antes da prova, cada aluno deve conseguir:
 
 - resolver pelo menos alguns problemas antigos;
-- implementar soluções em C sem travar no básico;
+- implementar solucoes em Python sem travar no basico;
 - testar exemplos;
 - criar casos de teste;
 - decidir quando abandonar temporariamente um problema;
 - buscar pontuação parcial;
 - controlar o tempo.
-
 

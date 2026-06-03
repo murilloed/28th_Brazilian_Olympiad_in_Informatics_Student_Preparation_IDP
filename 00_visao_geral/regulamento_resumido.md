@@ -288,7 +288,7 @@ Modalidade: Programação
 Nível: Sênior
 Código: PS
 Ano Escola: U1
-Linguagem de treino: C
+Linguagem de treino: Python
 Prova: individual
 Fase Local: 10 a 12/06/2026
 Duração da Fase Local: 2 horas
@@ -315,5 +315,4 @@ Calendário:
 ## 24. Frase Final
 
 > A OBI é uma competição individual de raciocínio e programação. O papel do treino é preparar o aluno antes da prova; durante a prova, cada competidor deve transformar sozinho o problema em uma solução correta.
-
 

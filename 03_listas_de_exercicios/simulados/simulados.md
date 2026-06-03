@@ -23,7 +23,7 @@ Para a Fase Local de Programação Sênior:
 ```text
 Duração: 2 horas
 Formato: individual
-Linguagem de treino: C
+Linguagem de treino: Python
 Quantidade sugerida: 3 problemas
 ```
 
@@ -131,5 +131,4 @@ Após o simulado, registrar:
 ## Frase De Orientação
 
 > O simulado não serve apenas para medir acertos. Ele serve para descobrir erros antes da prova oficial.
-
 

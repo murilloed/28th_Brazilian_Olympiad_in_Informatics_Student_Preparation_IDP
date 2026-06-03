@@ -85,10 +85,10 @@ Descrever a lógica.
 
 Exemplo: O(n), O(n log n), O(n²).
 
-### Código Em C
+### Codigo Em Python
 
-```c
-// solução aqui
+```python
+# solucao aqui
 ```
 ```
 
@@ -102,5 +102,3 @@ O aluno está evoluindo quando consegue:
 - evitar erros de índice;
 - explicar complexidade básica;
 - conseguir pontuação parcial em problemas mais difíceis.
-
-

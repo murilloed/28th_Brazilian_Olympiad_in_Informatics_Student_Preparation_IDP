@@ -165,6 +165,5 @@ A organização da OBI fica a cargo do Instituto de Computação da Unicamp.
 - A inscrição dos alunos deve ser feita pelo Coordenador Local.
 - Para alunos do primeiro período universitário, a modalidade correta é Programação Sênior (`PS`) e o ano escola é `U1`.
 - A prova é individual.
-- A linguagem de treino inicial do IDP será C.
-
+- A linguagem de treino do IDP será Python.
 

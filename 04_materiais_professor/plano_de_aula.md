@@ -1,110 +1,108 @@
-# Plano De Aula - Preparação OBI 2026
+# Plano De Aula - Preparacao OBI 2026
 
-## 1. Identificação
+## 1. Identificacao
 
-Tema: Preparação para a OBI 2026
+Tema: Preparacao para a OBI 2026
 
-Modalidade: Programação - Nível Sênior
+Modalidade: Programacao - Nivel Senior
 
-Linguagem: C
+Linguagem de treino: Python
 
-Público: alunos do primeiro período universitário do IDP
+Publico: alunos do primeiro periodo universitario do IDP
 
 ## 2. Objetivo Geral
 
-Preparar os alunos para resolver problemas de programação no formato da OBI, usando linguagem C, com foco em entrada/saída, lógica, vetores, strings, simulação e estratégia de prova.
+Preparar os alunos para resolver problemas de programacao no formato da OBI usando Python, com foco em entrada/saida, logica, listas, strings, simulacao e estrategia de prova.
 
-## 3. Objetivos Específicos
+## 3. Objetivos Especificos
 
 Ao final do treinamento, espera-se que os alunos consigam:
 
 - compreender o formato da OBI;
-- ler enunciados com atenção;
-- implementar soluções em C;
-- usar `scanf` e `printf`;
-- aplicar condicionais e laços;
-- manipular vetores e strings;
-- testar soluções;
+- ler enunciados com atencao;
+- implementar solucoes em Python;
+- usar `input()`, `split()`, `map()` e `print()`;
+- aplicar condicionais e lacos;
+- manipular listas e strings;
+- testar solucoes;
 - controlar tempo de prova;
-- evitar erros comuns em C.
+- evitar erros comuns em Python.
 
-## 4. Conteúdos
+## 4. Conteudos
 
-- O que é a OBI.
-- Modalidade Programação Sênior.
-- Entrada e saída em C.
+- O que e a OBI.
+- Modalidade Programacao Senior.
+- Entrada e saida em Python.
 - Condicionais.
-- Laços.
-- Vetores.
+- Lacos.
+- Listas.
 - Strings.
-- Ordenação simples.
+- Ordenacao simples.
 - Busca linear.
-- Simulação.
-- Matemática básica.
-- Estratégia de prova.
-- Erros comuns em C.
+- Simulacao.
+- Matematica basica.
+- Estrategia de prova.
+- Erros comuns em Python.
 
 ## 5. Metodologia
 
-O treinamento será prático e baseado em resolução de problemas.
-
-Cada encontro seguirá, preferencialmente, a estrutura:
+O treinamento sera pratico e baseado em resolucao de problemas.
 
 ```text
-explicação curta
-resolução individual
-correção coletiva
+explicacao curta
+resolucao individual
+correcao coletiva
 registro de erros
+nova tentativa
 ```
 
-## 6. Recursos Necessários
+## 6. Recursos Necessarios
 
 - Computadores.
-- Compilador C.
-- Editor de código.
+- Python 3 instalado ou ambiente online permitido.
+- Editor de codigo.
 - Acesso ao site da OBI.
 - Problemas antigos da OBI.
 - Quadro ou projetor.
-- Cronômetro para simulados.
+- Cronometro para simulados.
 
-## 7. Avaliação
+## 7. Avaliacao
 
-A avaliação será formativa, observando:
+A avaliacao sera formativa, observando:
 
-- participação;
-- evolução na resolução;
-- número de problemas resolvidos;
+- participacao;
+- evolucao na resolucao;
+- numero de problemas resolvidos;
 - qualidade dos testes;
-- redução de erros em C;
+- reducao de erros em Python;
 - desempenho nos simulados.
 
 ## 8. Cronograma
 
 | Data | Carga | Foco |
 |---|---:|---|
-| 01/06 | 2h | Diagnóstico + entrada/saída |
-| 02/06 | 2h | Condicionais e laços |
-| 03/06 | 2h | Vetores e ordenação simples |
-| 04/06 | 2h | Strings em C |
-| 05/06 | 2h | Simulação e matemática simples |
+| 01/06 | 2h | Diagnostico + entrada/saida |
+| 02/06 | 2h | Condicionais e lacos |
+| 03/06 | 2h | Listas e ordenacao simples |
+| 04/06 | 2h | Strings em Python |
+| 05/06 | 2h | Simulacao e matematica simples |
 | 06/06 | 3h | Simulado curto |
-| 07/06 | 2h | Revisão |
-| 08/06 | 2h30 | Nível 2 fácil/médio |
+| 07/06 | 2h | Revisao |
+| 08/06 | 2h30 | Nivel 2 facil/medio |
 | 09/06 | 3h | Simulado final |
 | 10 a 12/06 | 2h | Prova oficial |
 
 ## 9. Resultado Esperado
 
-Espera-se que os alunos cheguem à prova capazes de:
+Espera-se que os alunos cheguem a prova capazes de:
 
 - resolver problemas simples;
-- tentar problemas médios;
-- evitar erros básicos;
-- entender a dinâmica da prova;
-- competir com mais segurança.
+- tentar problemas medios;
+- evitar erros basicos;
+- entender a dinamica da prova;
+- competir com mais seguranca.
 
 ## 10. Frase De Encerramento
 
-> A preparação para a OBI deve transformar insegurança em método: ler, pensar, codificar, testar e corrigir.
-
+> A preparacao para a OBI deve transformar inseguranca em metodo: ler, pensar, codificar, testar e corrigir.
 

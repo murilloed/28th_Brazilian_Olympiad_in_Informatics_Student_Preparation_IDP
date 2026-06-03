@@ -1,123 +1,100 @@
-# Orientações Para O Dia Da Prova - OBI 2026
+# Orientacoes Para O Dia Da Prova - OBI 2026
 
-Este documento reúne orientações para professor/coordenador e alunos no dia da aplicação da OBI.
+Este documento reune orientacoes para professor/coordenador e alunos no dia da aplicacao da OBI.
 
 ## 1. Antes Da Prova
 
 O professor/coordenador deve:
 
-- confirmar horário de aplicação;
+- confirmar horario de aplicacao;
 - conferir lista de alunos inscritos;
 - verificar computadores;
 - testar teclado e mouse;
-- testar compilador/ambiente de programação;
+- testar Python 3 ou ambiente de programacao permitido;
 - confirmar acesso ao ambiente de prova;
 - organizar a sala;
 - orientar os alunos sobre regras;
-- garantir que não haverá comunicação indevida.
+- garantir que nao havera comunicacao indevida.
 
 ## 2. Materiais Permitidos
 
-Conforme o regulamento, no dia da prova pode ser permitido apenas o material autorizado pela OBI.
-
-Para a Modalidade Programação:
+Para a Modalidade Programacao:
 
 - computador individual;
-- ambiente de programação;
+- ambiente de programacao;
 - compilador/interpretador permitido;
-- acesso somente ao ambiente de prova, quando necessário.
+- acesso somente ao ambiente de prova, quando necessario.
 
-Não permitir:
+Nao permitir:
 
-- consulta livre à internet;
-- comunicação entre participantes;
+- consulta livre a internet;
+- comunicacao entre participantes;
 - troca de arquivos;
-- uso de soluções prontas;
+- uso de solucoes prontas;
 - ajuda externa.
 
-## 3. Regras Para Os Alunos
+## 3. Papel Do Professor Durante A Prova
 
-Durante a prova:
+O professor pode resolver problemas tecnicos, controlar horario e garantir o cumprimento das regras.
 
-- a prova é individual;
-- não conversar;
-- não trocar código;
-- não pedir dica ao professor;
-- não usar internet fora do ambiente autorizado;
-- não comentar conteúdo da prova durante o dia;
-- respeitar o tempo de prova;
-- submeter as soluções pelo ambiente indicado.
+O professor nao pode:
 
-## 4. Papel Do Professor Durante A Prova
-
-O professor pode:
-
-- resolver problemas técnicos;
-- orientar sobre acesso ao ambiente;
-- controlar horário;
-- garantir silêncio;
-- garantir cumprimento das regras;
-- acionar suporte se necessário.
-
-O professor não pode:
-
-- explicar a lógica de um problema;
+- explicar a logica de um problema;
 - indicar algoritmo;
-- corrigir código;
-- depurar solução;
-- dizer se uma ideia está certa;
+- corrigir codigo;
+- depurar solucao;
+- dizer se uma ideia esta certa;
 - sugerir casos de teste.
 
-## 5. Checklist Técnico
+## 4. Checklist Tecnico
 
 | Item | Conferido |
 |---|---|
-| Computadores ligados | Não |
-| Internet funcionando para ambiente autorizado | Não |
-| Compilador C testado | Não |
-| Editor de código funcionando | Não |
-| Ambiente da OBI acessível | Não |
-| Alunos com login/senha | Não |
-| Horário definido | Não |
-| Sala organizada | Não |
+| Computadores ligados | Nao |
+| Internet funcionando para ambiente autorizado | Nao |
+| Python 3 testado | Nao |
+| Editor de codigo funcionando | Nao |
+| Ambiente da OBI acessivel | Nao |
+| Alunos com login/senha | Nao |
+| Horario definido | Nao |
+| Sala organizada | Nao |
 
-## 6. Estratégia Para Os Alunos
+## 5. Estrategia Para Os Alunos
 
 Durante a prova, cada aluno deve:
 
 1. ler todos os problemas;
-2. escolher primeiro o mais fácil;
+2. escolher primeiro o mais facil;
 3. resolver com calma;
 4. testar com exemplos;
-5. criar testes próprios;
-6. conferir a saída;
+5. criar testes proprios;
+6. conferir a saida;
 7. submeter;
-8. passar para o próximo problema;
+8. passar para o proximo problema;
 9. revisar no final.
 
-## 7. Erros Que Devem Ser Evitados
+## 6. Erros Que Devem Ser Evitados
 
-- esquecer `&` no `scanf`;
-- passar do limite do vetor;
+- esquecer `int()` na entrada numerica;
+- esquecer `split()` para varios valores na mesma linha;
 - imprimir texto extra;
-- esquecer quebra de linha;
-- usar `int` quando precisa de `long long`;
-- comparar strings com `==`;
-- não inicializar variáveis;
-- não testar os exemplos.
+- errar indentacao;
+- esquecer `:` em blocos;
+- acessar lista fora do limite;
+- usar `/` quando precisava de `//`;
+- nao testar os exemplos.
 
-## 8. Após A Prova
+## 7. Apos A Prova
 
 O professor/coordenador deve:
 
 - garantir encerramento correto;
-- orientar alunos a não comentar o conteúdo durante o dia;
-- acompanhar divulgação dos resultados;
-- registrar observações para próximos treinos;
-- preparar próximos passos para classificados.
+- orientar alunos a nao comentar o conteudo durante o dia;
+- acompanhar divulgacao dos resultados;
+- registrar observacoes para proximos treinos;
+- preparar proximos passos para classificados.
 
-## 9. Frase Final
+## 8. Frase Final
 
-> No dia da prova, o professor garante o ambiente; quem resolve o problema é o aluno.
-
+> No dia da prova, o professor garante o ambiente; quem resolve o problema e o aluno.
 

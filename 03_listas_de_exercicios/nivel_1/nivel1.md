@@ -38,7 +38,7 @@ Treinar:
    - ano;
    - link;
    - nível de dificuldade;
-   - solução em C;
+   - solucao em Python;
    - erros cometidos;
    - observações.
 
@@ -91,5 +91,4 @@ O aluno está pronto para avançar quando conseguir:
 - testar com exemplos;
 - criar testes próprios;
 - explicar a própria solução.
-
 

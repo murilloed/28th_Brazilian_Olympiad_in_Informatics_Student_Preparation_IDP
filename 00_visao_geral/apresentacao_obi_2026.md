@@ -106,13 +106,13 @@ Na Modalidade Programação, as linguagens permitidas são:
 - Java
 - Python
 
-Para a equipe do IDP, o treinamento será inicialmente focado em:
+Para a equipe do IDP, o treinamento será focado em:
 
 ```text
-C
+Python
 ```
 
-A escolha por C se justifica porque os alunos já estudam essa linguagem no curso e porque ela é aceita oficialmente pela OBI.
+A escolha por Python se justifica porque a linguagem é aceita oficialmente pela OBI, reduz atrito de sintaxe e permite que os alunos concentrem mais energia na interpretação do enunciado e na lógica da solução.
 
 ## Como é a prova de Programação?
 
@@ -200,7 +200,7 @@ A preparação deve focar em prática constante.
 Os alunos devem treinar:
 
 - Leitura de enunciado.
-- Entrada e saída em C.
+- Entrada e saída em Python.
 - Estruturas condicionais.
 - Laços de repetição.
 - Vetores.
@@ -253,15 +253,14 @@ Para os alunos do IDP:
 ```text
 Modalidade: Programação
 Nível: Sênior
-Linguagem de treino: C
+Linguagem de treino: Python
 Prova: individual
 Formato: resolução de problemas no computador
 Fase Local: 10 a 12/06/2026
 ```
 
-O foco da preparação será resolver problemas antigos da OBI, treinar linguagem C e desenvolver estratégia de prova.
+O foco da preparação será resolver problemas antigos da OBI, treinar Python e desenvolver estratégia de prova.
 
 ## Frase final
 
 > A OBI não mede apenas quem sabe programar mais comandos, mas quem consegue transformar um problema em uma solução lógica, correta e eficiente.
-
